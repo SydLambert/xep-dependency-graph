@@ -1,0 +1,4 @@
+[submodule "xeps"]
+	path = xeps
+	url = git@github.com:xsf/xeps.git
+	branch = master
